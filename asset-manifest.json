@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kwitter/static/css/main.01184dcb.chunk.css",
+    "main.js": "/kwitter/static/js/main.e29b00f2.chunk.js",
+    "main.js.map": "/kwitter/static/js/main.e29b00f2.chunk.js.map",
+    "runtime-main.js": "/kwitter/static/js/runtime-main.6f88c9a4.js",
+    "runtime-main.js.map": "/kwitter/static/js/runtime-main.6f88c9a4.js.map",
+    "static/js/2.3ceefdd7.chunk.js": "/kwitter/static/js/2.3ceefdd7.chunk.js",
+    "static/js/2.3ceefdd7.chunk.js.map": "/kwitter/static/js/2.3ceefdd7.chunk.js.map",
+    "index.html": "/kwitter/index.html",
+    "precache-manifest.a2158b5fc61085e274bbf8dd0c872efd.js": "/kwitter/precache-manifest.a2158b5fc61085e274bbf8dd0c872efd.js",
+    "service-worker.js": "/kwitter/service-worker.js",
+    "static/css/main.01184dcb.chunk.css.map": "/kwitter/static/css/main.01184dcb.chunk.css.map",
+    "static/js/2.3ceefdd7.chunk.js.LICENSE.txt": "/kwitter/static/js/2.3ceefdd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f88c9a4.js",
+    "static/js/2.3ceefdd7.chunk.js",
+    "static/css/main.01184dcb.chunk.css",
+    "static/js/main.e29b00f2.chunk.js"
+  ]
+}
