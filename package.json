@@ -1,5 +1,6 @@
 {
   "name": "kwitter-frontend",
+  "homepage": "https://kwitter-511.herokuapp.com/",
   "version": "2.0.1",
   "private": true,
   "dependencies": {
