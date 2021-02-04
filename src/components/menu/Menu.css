@@ -1,0 +1,21 @@
+#menu {
+  background-color: lightskyblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1em;
+  border: 1px solid black;
+  border-radius: 1em;
+}
+
+#menu-links {
+  /* display: flex; */
+  /* flex-direction: row-reverse; */
+  padding-right: 1em;
+  color: purple;
+  text-decoration: underline;
+  cursor: pointer;
+  justify-items: space-between;
+  margin-left: 10px;
+  margin-right: 10px;
+}

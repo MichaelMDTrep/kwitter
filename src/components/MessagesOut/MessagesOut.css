@@ -1,0 +1,8 @@
+#messages-out {
+  width: 100vw;
+  color: red;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
